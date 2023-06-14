@@ -4,7 +4,7 @@ Para mostrar de manera atractiva y ordenada mis trabajos realizados hasta ahora,
 
 ## ¿Para quiénes es esta propuesta?
 
- **Fernanda Figueroa**
+ **Alejandra Perez**
 
 | Datos| 
 | ---------------- |
