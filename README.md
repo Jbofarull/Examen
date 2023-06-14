@@ -1,4 +1,4 @@
-# Portafoliofinal
+# Portafolio final
 ## ¿por qúe un portafolio?
 Para mostrar de manera atractiva y ordenada mis trabajos realizados hasta ahora, obteniendo un registro de lo aprendido y apuntando a captar clientes.
 
