@@ -47,3 +47,10 @@ Para mostrar de manera atractiva y ordenada mis trabajos realizados hasta ahora,
 #### ***¿Qué hace?***
 ##### Busca informacion sobre sus ex compañeros de colegio en Google y se encuentra con este portafolio.
 
+## Antecedentes
+### 1: Portafolio de Jesslina Hanif 
+![image](https://github.com/aleschlegel/portafoliofinal/assets/91894977/b96d54bc-8d38-440e-b37a-7b7acb5f7270)
+#### Fuente:https://www.behance.net/gallery/157918875/Interior-Design-Portfolio?tracking_source=search_projects|design+portfolio
+#### Relevancia: Jesslina es una diseñadora de interiores de Kuala Lumpur. Su portafolio es sirve como inspiración en cuanto a la gráfica.
+
+
