@@ -49,8 +49,14 @@ Para mostrar de manera atractiva y ordenada mis trabajos realizados hasta ahora,
 
 ## Antecedentes
 ### 1: Portafolio de Jesslina Hanif 
-![image](https://github.com/Jbofarull/Examen/blob/main/assets/img/f1.jpg)
 #### Fuente:https://www.behance.net/gallery/157918875/Interior-Design-Portfolio?tracking_source=search_projects|design+portfolio
 #### Relevancia: Jesslina es una diseñadora de interiores de Kuala Lumpur. Su portafolio es sirve como inspiración en cuanto a la gráfica.
+![image](https://github.com/Jbofarull/Examen/blob/main/assets/img/f1.jpg)
+
+### 1: Portafolio Hong Tham
+#### Fuente:https://www.behance.net/gallery/171930331/PORTFOLIO-GRAPHIC-DESIGN?tracking_source=search_projects|design+portfolio
+#### Relevancia: Hong Tham  es un estudiante de diseño gráfico.Usa recursos de color llamativos y una diagramación clara. 
+![image](https://github.com/Jbofarull/Examen/blob/main/assets/img/f1.jpg)
+
 
 
