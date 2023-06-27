@@ -56,7 +56,7 @@ Para mostrar de manera atractiva y ordenada mis trabajos realizados hasta ahora,
 ### 1: Portafolio Hong Tham
 #### Fuente:https://www.behance.net/gallery/171930331/PORTFOLIO-GRAPHIC-DESIGN?tracking_source=search_projects|design+portfolio
 #### Relevancia: Hong Tham  es un estudiante de diseño gráfico.Usa recursos de color llamativos y una diagramación clara. 
-![image](https://github.com/Jbofarull/Examen/blob/main/assets/img/f1.jpg)
+![image](https://github.com/Jbofarull/Examen/blob/main/assets/img/f2.jpg)
 
 
 
